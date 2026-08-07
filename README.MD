@@ -10,4 +10,5 @@ Este proyecto es una aplicación de consola en Python para practicar el control 
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone [https://github.com/YULIANA_NIETO/mi-primer-repo.git](https://github.com/YULIANA_NIETO/mi-primer-repo.git)
+   git clone https://github.com/YULIANA_NIETO/mi-primer-repo.git
+   
